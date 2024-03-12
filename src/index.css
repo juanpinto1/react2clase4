@@ -2,7 +2,7 @@ li {
   list-style: none;
 }
 .notFound {
-background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../../public/assets/perrito.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../src/assets/perrito.jpg");
 background-size: cover;
 height: 100vh;
 }
@@ -37,7 +37,7 @@ height: 100vh;
 }
 
 .header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../../public/assets/Header.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../src/assets/Header.jpg");
 
   background-size: cover;
   height: 40vh;
