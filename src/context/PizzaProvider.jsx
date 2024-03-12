@@ -14,7 +14,7 @@ const PizzasProvider = ({ children }) => {
 
   // Obtener las pizzas //
   const getPizzas = async () => {
-    const res = await fetch("/pizzas.json");
+    const res = await fetch("./pizzas.json");
     const pizzas = await res.json();
     setPizzas(pizzas);
   };
