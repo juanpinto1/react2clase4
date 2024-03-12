@@ -1,0 +1,18 @@
+.Formpago {
+    border: black solid 4px;
+    justify-content: center;
+    display: flex;
+    width: 300px;
+    margin: 200px auto;
+    padding: 50px; 
+    border-radius: 10px;
+}
+.Form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.nota{
+    color: blue;
+}
